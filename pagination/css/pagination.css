@@ -1,0 +1,21 @@
+.page-link{
+	background-color: #EB4F31;
+	color: black;
+}
+
+.page-link:active{
+	background-color: #EB4F31;
+	color: black;
+}
+
+.page-link:hover{
+	background-color: rgba(235, 79, 45, .5);
+	color: black;
+}
+
+.page-link:visited{
+	background-color: rgba(235, 79, 45, .5);
+	color: black;
+}
+
+

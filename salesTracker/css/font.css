@@ -1,0 +1,43 @@
+@font-face {
+	font-family: oswald;
+	src: url("../../fonts/oswald/static/Oswald-Light.ttf");
+}
+
+
+@font-face {
+	font-family: newton;
+	src: url("../../fonts/Newton/Neuton-Regular.ttf");
+}
+
+ p, address, button, input, th, td, select, option, label{
+	font-family: "oswald", "Times New Roman", serif;
+	letter-spacing: 1px;
+}
+
+  
+
+ul li {
+	font-family: "newton", "Garamond", serif;
+	letter-spacing: 1px;
+	
+}
+
+h1{
+	font-family: "newton", "Garamond", serif;
+	letter-spacing: 1px;
+	font-size: 3.2rem;
+}
+
+h2{
+	font-family: "newton", "Garamond", serif;
+	letter-spacing: 1px;
+	font-size: 2.5rem;
+}
+
+h3, .nav-item{
+	font-family: "newton", "Garamond", serif;
+	letter-spacing: 1px;
+	font-size: 2rem;
+}
+
+
