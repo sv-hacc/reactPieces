@@ -1,0 +1,46 @@
+body{
+	background-color: #fdf2e7;
+}
+
+span{
+	margin-left: 70%;
+}
+
+a{
+	color: black;
+}
+
+a:hover{
+	color: black;
+}
+
+.btn{
+	background-color: #F46549;
+}
+
+.btn:hover{
+	background-color: #D92F0D;
+}
+
+.feedback{
+	background-color: #F58A75;
+	width: 200%;
+}
+
+input{
+	margin-left: 13%;
+}
+
+label{
+	margin-left: 13%;
+}
+
+input[type=text]:focus {
+  border: 3px solid yellow;
+}
+
+input[type=password]:focus {
+  border: 3px solid yellow;
+}
+
+
